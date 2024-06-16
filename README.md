@@ -20,7 +20,7 @@
 <td width="50%">
 <h3 align="center">E-commerce project</h3>
 <div align="center">
-<a href="https://github.com/ArisGuimera/Android-Expert" target="_blank"><img src="https://i.imgur.com/Jji0CIE.jpg" width="400" alt="Curso básico android"></a>
+<a href="https://github.com/ArisGuimera/Android-Expert" target="_blank"><img src="https://github.com/Raurez/Img-banner-profile/blob/main/Dise%C3%B1o%20sin%20t%C3%ADtulo.png" width="400" alt="E-commerce project"></a>
 <p>
 <a href="https://github.com/ArisGuimera/Android-Expert" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
