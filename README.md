@@ -19,7 +19,7 @@
 <td width="50%">
 <h3 align="center">E-commerce project</h3>
 <div align="center">
-<a href="https://github.com/ArisGuimera/Android-Expert" target="_blank"><img src="https://github.com/Raurez/Image-repo-profile/blob/main/Mockpu_play_store.png" width="400" alt="E-commerce project"></a>
+<a href="https://github.com/ArisGuimera/Android-Expert" target="_blank"><img src="https://github.com/Raurez/Image-repo-profile/blob/main/Mockpu_play_store.png" width="450" alt="E-commerce project"></a>
 <p>
 <a href="https://github.com/ArisGuimera/Android-Expert" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
@@ -32,9 +32,9 @@
 
 <td width="50%">
                <br>
-<h3 align="center">Arquitectura MVVM</h3>
+<h3 align="center">FlightsFX Application</h3>
 <div align="center">                                       
-<a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank"><img src="https://i.imgur.com/7uCBigG.jpg" width="400" alt="Curso arquitectura MVVM"></a>
+<a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank"><img src="IMAGEN" width="450" alt="FlightsFX Application"></a>
 <br>
 <p>
 <a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank">
