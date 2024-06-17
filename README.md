@@ -1,4 +1,3 @@
-
 <img src="https://github.com/Raurez/Img-banner-profile/blob/main/Banner_Raul_LINKEDIN.png">
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCIjEgHA1vatSR2K4rfcdNRg?style=social)](https://youtube.com/aristidevs?sub_confirmation=1)
@@ -87,6 +86,7 @@
                                                                                       
 </td>  
 </table>
+
 ## Licence
 
 The contents of this repository are licensed under the [Creative Commons Attribution-NonCommercial 4.0 International](https://creativecommons.org/licenses/by-nc/4.0/).
