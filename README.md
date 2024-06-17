@@ -86,9 +86,9 @@
 </div>
                                                                                       
 </td>  
-</table>                                                                                 
+</table>
+## Licence
+
+The contents of this repository are licensed under the [Creative Commons Attribution-NonCommercial 4.0 International](https://creativecommons.org/licenses/by-nc/4.0/).
 </div>
 <br>
-## Licencia
-
-El contenido de este repositorio está bajo la licencia [Creative Commons Attribution-NonCommercial 4.0 International](https://creativecommons.org/licenses/by-nc/4.0/).
