@@ -1,4 +1,4 @@
-<img src="https://github.com/Raurez/Image-repo-profile/blob/main/Banner_Raul_LINKEDIN.png">
+<img src="https://github.com/Raurez/Image-repo-profile/blob/main/Ra%C3%BAl%20Ram%C3%ADrez%20Botella.svg">
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCIjEgHA1vatSR2K4rfcdNRg?style=social)](https://youtube.com/aristidevs?sub_confirmation=1)
 [![Twitch Status](https://img.shields.io/twitch/status/aristidevs?style=social)](https://www.twitch.tv/aristidevs)
