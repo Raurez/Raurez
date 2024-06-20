@@ -72,7 +72,7 @@
 <td width="50%">
 <h3 align="center">Website template for a shop</h3>
 <div align="center">
-<a href="https://github.com/ArisGuimera/Curso-Kotlin-Multiplatform" target="_blank"><img src="https://github.com/Raurez/Image-repo-profile/blob/main/shop_templete.png" width="400" alt="Website template for a shop"></a>
+<a href="https://github.com/ArisGuimera/Curso-Kotlin-Multiplatform" target="_blank"><img src="https://github.com/Raurez/Image-repo-profile/blob/main/shop_templete.png" width="350" alt="Website template for a shop"></a>
 <p>
 <a href="https://github.com/ArisGuimera/Curso-Kotlin-Multiplatform" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-cfaae0?style=for-the-badge&logo=github&logoColor=black">
