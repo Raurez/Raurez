@@ -32,7 +32,7 @@
 
 <td width="50%">
 <br>
-<h3 align="center">MessagesFX Application</h3>
+<h3 align="center">FlightsFX Application</h3>
 <div align="center">                                       
 <a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank"><img src="https://github.com/Raurez/Image-repo-profile/blob/main/MessagesFX.png" width="450" alt="FlightsFX Application"></a>
 <br>
