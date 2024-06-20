@@ -1,7 +1,6 @@
 <img src="https://github.com/Raurez/Image-repo-profile/blob/main/Ra%C3%BAl%20Ram%C3%ADrez%20Botella.svg">
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raurambot@gmail.com)
-![Android Studio](https://img.shields.io/badge/android-studio-3DDC84?style=for-the-badge&logo=android%20studio&logoColor=white&labelColor=black)
 
 ## Lenguajes de programación
 
@@ -28,6 +27,9 @@
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+## IDEs
+![Android Studio](https://img.shields.io/badge/android-studio-3DDC84?style=for-the-badge&logo=android%20studio&logoColor=white&labelColor=black)
 
 ## Control de versiones
 
