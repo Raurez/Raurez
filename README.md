@@ -88,9 +88,9 @@
 <td width="50%">
 <h3 align="center">Minimalist web portfolio</h3>
 <div align="center">
-<a href="https://github.com/ArisGuimera/Android-Expert-Intermedio" target="_blank"><img src="https://github.com/Raurez/Image-repo-profile/blob/main/portafolio_minimalista.png" width="325" alt="Minimalist web portfolio"></a>
+<a href="https://github.com/Raurez/Minimalist_web_portfolio" target="_blank"><img src="https://github.com/Raurez/Image-repo-profile/blob/main/portafolio_minimalista.png" width="325" alt="Minimalist web portfolio"></a>
 <p>
-<a href="https://github.com/ArisGuimera/Android-Expert-Intermedio" target="_blank">
+<a href="https://github.com/Raurez/Minimalist_web_portfolio" target="_blank">
 <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
