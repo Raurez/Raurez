@@ -4,7 +4,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ra%C3%BAl-ram%C3%ADrez-botella-998523302/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Raurez)
 
-## About me 🏄‍♂️
+## About me 
 
 - 📲 Mobile developer
 - 👨‍💻 Software Developer      
@@ -14,7 +14,7 @@
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -56,15 +56,14 @@
 <td width="50%">
 <h3 align="center">E-commerce project</h3>
 <div align="center">
-<a href="https://github.com/ArisGuimera/Android-Expert" target="_blank"><img src="https://github.com/Raurez/Image-repo-profile/blob/main/Mockpu_play_store.png" width="450" alt="E-commerce project"></a>
+<a href="https://github.com/Raurez/E-commerce_project" target="_blank"><img src="https://github.com/Raurez/Image-repo-profile/blob/main/Mockpu_play_store.png" width="450" alt="E-commerce project"></a>
 <p>
-<a href="https://github.com/ArisGuimera/Android-Expert" target="_blank">
+<a href="https://github.com/Raurez/E-commerce_project" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
 </p>Discover <strong>QuickCart</strong>: Your personal shopping assistant. Manage lists, search for products, and share details effortlessly. Intuitive interface for an efficient shopping experience.</p>
-</div>
-                                                                                      
+</div>                                                                                   
 </td>
 
 <td width="50%">
@@ -119,8 +118,7 @@
 </a>
 </p>
 <p>Aprende a programar aplicaciones <strong>multiplataform con Kotlin y Jetpack Compose</strong> - En este curso nos centraremos en dominar Kotlin Multiplatform <strong>desde cero</strong>. Curso <strong>GRATUITO</strong> (en desarrollo) con todo el código disponible para descargar.</p>
-</div>
-                                                                                      
+</div>                                                                                
 </td>  
 </table>
 
