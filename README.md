@@ -50,65 +50,72 @@
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-## Projects 
+## Projects
 
 <table>
-<tr>
-<td width="50%">
-<h3 align="center">E-commerce project</h3>
-<div align="center">
-<a href="https://github.com/Raurez/E-commerce_project" target="_blank"><img src="https://github.com/Raurez/Image-repo-profile/blob/main/Mockpu_play_store%20XL.png" width="450" alt="E-commerce project"></a>
-<p>
-<a href="https://github.com/Raurez/E-commerce_project" target="_blank">
-<img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
-</a>
-</p>
-</p>Discover <strong>QuickCart</strong>: Your personal shopping assistant. Manage lists, search for products, and share details effortlessly. Intuitive interface for an efficient shopping experience.</p>
-</div>                                                                                   
-</td>
-
-<td width="50%">
-<h3 align="center">FlightsFX Application</h3>
-<div align="center">                                       
-<a href="https://github.com/Raurez/FlightsFX_Application" target="_blank"><img src="https://github.com/Raurez/Image-repo-profile/blob/main/Fly_FX.png" width="350" alt="FlightsFX Application"></a>
-<p>
-<a href="https://github.com/Raurez/FlightsFX_Application" target="_blank">
-<img src="https://img.shields.io/badge/CODE-80ffaa?style=for-the-badge&logo=github&logoColor=black">
-</a>
-</p>
-</p>Discover <strong>QuickCart</strong>: Your personal shopping assistant. Manage lists, search for products, and share details effortlessly. Intuitive interface for an efficient shopping experience.</p>
-</div>                                                             
-</table>                                                                                 
-</div>
-</td>  
+  <tr>
+    <td width="50%">
+      <h3 align="center">E-commerce project</h3>
+      <div align="center">
+        <a href="https://github.com/Raurez/E-commerce_project" target="_blank">
+          <img src="https://github.com/Raurez/Image-repo-profile/blob/main/Mockpu_play_store%20XL.png" width="350" alt="E-commerce project">
+        </a>
+        <p>
+          <a href="https://github.com/Raurez/E-commerce_project" target="_blank">
+            <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
+          </a>
+        </p>
+        <p>Discover <strong>QuickCart</strong>: Your personal shopping assistant. Manage lists, search for products, and share details effortlessly. Intuitive interface for an efficient shopping experience.</p>
+      </div>                                                                                   
+    </td>
+    <td width="50%">
+      <h3 align="center">FlightsFX Application</h3>
+      <div align="center">
+        <a href="https://github.com/Raurez/FlightsFX_Application" target="_blank">
+          <img src="https://github.com/Raurez/Image-repo-profile/blob/main/Fly_FX.png" width="350" alt="FlightsFX Application">
+        </a>
+        <p>
+          <a href="https://github.com/Raurez/FlightsFX_Application" target="_blank">
+            <img src="https://img.shields.io/badge/CODE-80ffaa?style=for-the-badge&logo=github&logoColor=black">
+          </a>
+        </p>
+        <p>Discover <strong>QuickCart</strong>: Your personal shopping assistant. Manage lists, search for products, and share details effortlessly. Intuitive interface for an efficient shopping experience.</p>
+      </div>                                                             
+    </td>  
+  </tr>
+</table>
 
 <table>
-<tr>
-<td width="50%">
-<h3 align="center">Minimalist web portfolio</h3>
-<div align="center">
-<a href="https://github.com/Raurez/Minimalist_web_portfolio" target="_blank"><img src="https://github.com/Raurez/Image-repo-profile/blob/main/portafolio_minimalista.png" width="325" alt="Minimalist web portfolio"></a>
-<p>
-<a href="https://github.com/Raurez/Minimalist_web_portfolio" target="_blank">
-<img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
-</a>
-</p>
-</p>Discover <strong>QuickCart</strong>: Your personal shopping assistant. Manage lists, search for products, and share details effortlessly. Intuitive interface for an efficient shopping experience.</p>
-</div>                                                                                 
-</td>       
-
-<td width="50%">
-<h3 align="center">Website template for a shop</h3>
-<div align="center">
-<a href="https://github.com/Raurez/Website_template_for_a_shop" target="_blank"><img src="https://github.com/Raurez/Image-repo-profile/blob/main/shop_templete.png" width="325" alt="Website template for a shop"></a>
-<p>
-<a href="https://github.com/Raurez/Website_template_for_a_shop" target="_blank">
-<img src="https://img.shields.io/badge/CODE-cfaae0?style=for-the-badge&logo=github&logoColor=black">
-</a>
-</p>
-</p>Discover <strong>QuickCart</strong>: Your personal shopping assistant. Manage lists, search for products, and share details effortlessly. Intuitive interface for an efficient shopping experience.</p>
-</div>                                                                                
-</td>  
+  <tr>
+    <td width="50%">
+      <h3 align="center">Minimalist web portfolio</h3>
+      <div align="center">
+        <a href="https://github.com/Raurez/Minimalist_web_portfolio" target="_blank">
+          <img src="https://github.com/Raurez/Image-repo-profile/blob/main/portafolio_minimalista.png" width="350" alt="Minimalist web portfolio">
+        </a>
+        <p>
+          <a href="https://github.com/Raurez/Minimalist_web_portfolio" target="_blank">
+            <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
+          </a>
+        </p>
+        <p>Discover <strong>QuickCart</strong>: Your personal shopping assistant. Manage lists, search for products, and share details effortlessly. Intuitive interface for an efficient shopping experience.</p>
+      </div>                                                                                 
+    </td>
+    <td width="50%">
+      <h3 align="center">Website template for a shop</h3>
+      <div align="center">
+        <a href="https://github.com/Raurez/Website_template_for_a_shop" target="_blank">
+          <img src="https://github.com/Raurez/Image-repo-profile/blob/main/shop_templete.png" width="350" alt="Website template for a shop">
+        </a>
+        <p>
+          <a href="https://github.com/Raurez/Website_template_for_a_shop" target="_blank">
+            <img src="https://img.shields.io/badge/CODE-cfaae0?style=for-the-badge&logo=github&logoColor=black">
+          </a>
+        </p>
+        <p>Discover <strong>QuickCart</strong>: Your personal shopping assistant. Manage lists, search for products, and share details effortlessly. Intuitive interface for an efficient shopping experience.</p>
+      </div>                                                                                
+    </td>
+  </tr>
 </table>
 
 ## Licence
