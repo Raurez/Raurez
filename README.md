@@ -71,7 +71,6 @@
 <h3 align="center">FlightsFX Application</h3>
 <div align="center">                                       
 <a href="https://github.com/Raurez/FlightsFX_Application" target="_blank"><img src="https://github.com/Raurez/Image-repo-profile/blob/main/Fly_FX.png" width="325" alt="FlightsFX Application"></a>
-<br>
 <p>
 <a href="https://github.com/Raurez/FlightsFX_Application" target="_blank">
 <img src="https://img.shields.io/badge/CODE-80ffaa?style=for-the-badge&logo=github&logoColor=black">
