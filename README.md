@@ -57,7 +57,7 @@
 <td width="50%">
 <h3 align="center">E-commerce project</h3>
 <div align="center">
-<a href="https://github.com/Raurez/E-commerce_project" target="_blank"><img src="https://github.com/Raurez/Image-repo-profile/blob/main/Mockpu_play_store%20XL.png" width="400" alt="E-commerce project"></a>
+<a href="https://github.com/Raurez/E-commerce_project" target="_blank"><img src="https://github.com/Raurez/Image-repo-profile/blob/main/Mockpu_play_store%20XL.png" width="450" alt="E-commerce project"></a>
 <p>
 <a href="https://github.com/Raurez/E-commerce_project" target="_blank">
 <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
@@ -70,7 +70,7 @@
 <td width="50%">
 <h3 align="center">FlightsFX Application</h3>
 <div align="center">                                       
-<a href="https://github.com/Raurez/FlightsFX_Application" target="_blank"><img src="https://github.com/Raurez/Image-repo-profile/blob/main/Fly_FX.png" width="325" alt="FlightsFX Application"></a>
+<a href="https://github.com/Raurez/FlightsFX_Application" target="_blank"><img src="https://github.com/Raurez/Image-repo-profile/blob/main/Fly_FX.png" width="350" alt="FlightsFX Application"></a>
 <p>
 <a href="https://github.com/Raurez/FlightsFX_Application" target="_blank">
 <img src="https://img.shields.io/badge/CODE-80ffaa?style=for-the-badge&logo=github&logoColor=black">
@@ -80,7 +80,7 @@
 </div>                                                             
 </table>                                                                                 
 </div>
-
+</td>  
 
 <table>
 <tr>
@@ -93,9 +93,8 @@
 <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
-<p>Aprende a programar aplicaciones <strong>Android con Kotlin nivel intermedio</strong> - En este curso nos centraremos en las <strong>buenas prácticas, arquitectura y testing</strong>. Curso <strong>GRATUITO de 8 horas</strong> con todo el código disponible para descargar.</p>
-</div>
-                                                                                      
+</p>Discover <strong>QuickCart</strong>: Your personal shopping assistant. Manage lists, search for products, and share details effortlessly. Intuitive interface for an efficient shopping experience.</p>
+</div>                                                                                 
 </td>       
 
 <td width="50%">
@@ -107,7 +106,7 @@
 <img src="https://img.shields.io/badge/CODE-cfaae0?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
-<p>Aprende a programar aplicaciones <strong>multiplataform con Kotlin y Jetpack Compose</strong> - En este curso nos centraremos en dominar Kotlin Multiplatform <strong>desde cero</strong>. Curso <strong>GRATUITO</strong> (en desarrollo) con todo el código disponible para descargar.</p>
+</p>Discover <strong>QuickCart</strong>: Your personal shopping assistant. Manage lists, search for products, and share details effortlessly. Intuitive interface for an efficient shopping experience.</p>
 </div>                                                                                
 </td>  
 </table>
