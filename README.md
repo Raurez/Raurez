@@ -51,12 +51,13 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ## Projects 
+
 <table>
 <tr>
 <td width="50%">
 <h3 align="center">E-commerce project</h3>
 <div align="center">
-<a href="https://github.com/Raurez/E-commerce_project" target="_blank"><img src="https://github.com/Raurez/Image-repo-profile/blob/main/Mockpu_play_store.png" width="450" alt="E-commerce project"></a>
+<a href="https://github.com/Raurez/E-commerce_project" target="_blank"><img src="https://github.com/Raurez/Image-repo-profile/blob/main/Mockpu_play_store%20XL.png" width="400" alt="E-commerce project"></a>
 <p>
 <a href="https://github.com/Raurez/E-commerce_project" target="_blank">
 <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
