@@ -58,7 +58,7 @@
       <h3 align="center">E-commerce project</h3>
       <div align="center">
         <a href="https://github.com/Raurez/E-commerce_project" target="_blank">
-          <img src="https://github.com/Raurez/Image-repo-profile/blob/main/Mockpu_play_store%20XL.png" width="350" alt="E-commerce project">
+          <img src="https://github.com/Raurez/Image-repo-profile/blob/main/Mockpu_play_store%20L.png" width="350" alt="E-commerce project">
         </a>
         <p>
           <a href="https://github.com/Raurez/E-commerce_project" target="_blank">
