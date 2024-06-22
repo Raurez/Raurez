@@ -79,7 +79,7 @@
             <img src="https://img.shields.io/badge/CODE-80ffaa?style=for-the-badge&logo=github&logoColor=black">
           </a>
         </p>
-        <p>Discover <strong>QuickCart</strong>: Your personal shopping assistant. Manage lists, search for products, and share details effortlessly. Intuitive interface for an efficient shopping experience.</p>
+        <p>Discover <strong>FlightsFX</strong>: Your JavaFX flight assistant. Manage airport flight lists, filter by criteria and find details easily. Intuitive interface for an efficient experience.</p>
       </div>                                                             
     </td>  
   </tr>
