@@ -98,7 +98,7 @@
             <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
           </a>
         </p>
-        <p>Discover <strong>QuickCart</strong>: Your personal shopping assistant. Manage lists, search for products, and share details effortlessly. Intuitive interface for an efficient shopping experience.</p>
+        <p>Discover <strong>Portfolio</strong>: Your ideal portfolio website. Customize and showcase your work in a professional way. Elegant and intuitive design to highlight your projects and skills.</p>
       </div>                                                                                 
     </td>
     <td width="50%">
