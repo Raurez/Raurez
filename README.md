@@ -76,7 +76,7 @@
         </a>
         <p>
           <a href="https://github.com/Raurez/FlightsFX_Application" target="_blank">
-            <img src="https://img.shields.io/badge/CODE-80ffaa?style=for-the-badge&logo=github&logoColor=black">
+            <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
           </a>
         </p>
         <p>Discover <strong>FlightsFX</strong>: Your JavaFX flight assistant. Manage airport flight lists, filter by criteria and find details easily. Intuitive interface for an efficient experience.</p>
@@ -109,7 +109,7 @@
         </a>
         <p>
           <a href="https://github.com/Raurez/Website_template_for_a_shop" target="_blank">
-            <img src="https://img.shields.io/badge/CODE-cfaae0?style=for-the-badge&logo=github&logoColor=black">
+            <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
           </a>
         </p>
         <p>Discover <strong>ShopTemplate</strong>: Your perfect website for shops. Customise and manage your online shop with ease. Attractive and intuitive design to highlight products and increase sales.</p>
