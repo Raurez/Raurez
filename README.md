@@ -112,7 +112,7 @@
             <img src="https://img.shields.io/badge/CODE-cfaae0?style=for-the-badge&logo=github&logoColor=black">
           </a>
         </p>
-        <p>Discover <strong>QuickCart</strong>: Your personal shopping assistant. Manage lists, search for products, and share details effortlessly. Intuitive interface for an efficient shopping experience.</p>
+        <p>Discover <strong>ShopTemplate</strong>: Your perfect website for shops. Customise and manage your online shop with ease. Attractive and intuitive design to highlight products and increase sales.</p>
       </div>                                                                                
     </td>
   </tr>
