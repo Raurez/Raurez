@@ -1,4 +1,4 @@
-<img src="https://github.com/Raurez/Image-repo-profile/blob/main/Ra%C3%BAl%20Ram%C3%ADrez%20Botella.svg" alt="Banner">
+<img src="https://github.com/Raurez/Image-repo-profile/blob/main/Raúl_banner.svg" alt="Banner">
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raurambot@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ra%C3%BAl-ram%C3%ADrez-botella-998523302/)
