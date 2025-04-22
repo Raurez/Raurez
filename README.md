@@ -11,45 +11,58 @@
 - 👨‍💻 Software Developer      
 - 🌍 Web Development
 
-## Programming Languages
+## 💻 Programming Languages
 
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+[<img src="https://raw.githubusercontent.com/Raurez/Image-repo-profile/main/icons/csharp/csharp-original.svg" alt="C#" title="C#" height="30"/>](#)
+[<img src="https://raw.githubusercontent.com/Raurez/Image-repo-profile/main/icons/java/java-original.svg" alt="Java" title="Java" height="30"/>](#)
+[<img src="https://raw.githubusercontent.com/Raurez/Image-repo-profile/main/icons/kotlin/kotlin-original.svg" alt="Kotlin" title="Kotlin" height="30"/>](#)
+[<img src="https://raw.githubusercontent.com/Raurez/Image-repo-profile/main/icons/python/python-original.svg" alt="Python" title="Python" height="30"/>](#)
+[<img src="https://raw.githubusercontent.com/Raurez/Image-repo-profile/main/icons/php/php-original.svg" alt="PHP" title="PHP" height="30"/>](#)
+[<img src="https://raw.githubusercontent.com/Raurez/Image-repo-profile/main/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" height="30"/>](#)
+[<img src="https://raw.githubusercontent.com/Raurez/Image-repo-profile/main/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" height="30"/>](#)
+[<img src="https://raw.githubusercontent.com/Raurez/Image-repo-profile/main/icons/html5/html5-original.svg" alt="HTML5" title="HTML5" height="30"/>](#)
+[<img src="https://raw.githubusercontent.com/Raurez/Image-repo-profile/main/icons/css3/css3-original.svg" alt="CSS3" title="CSS3" height="30"/>](#)
+[<img src="https://raw.githubusercontent.com/Raurez/Image-repo-profile/main/icons/angular/angular-original.svg" alt="Angular" title="Angular" height="30"/>](#)
 
-## IDEs
+## 🧰 IDEs
 
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android%20studio&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij%20idea&logoColor=white)
+[<img src="https://raw.githubusercontent.com/Raurez/Image-repo-profile/main/icons/androidstudio/androidstudio-original.svg" alt="Android Studio" title="Android Studio" height="30"/>](#)
+[<img src="https://raw.githubusercontent.com/Raurez/Image-repo-profile/main/icons/vscode/vscode-original.svg" alt="VS Code" title="Visual Studio Code" height="30"/>](#)
+[<img src="https://raw.githubusercontent.com/Raurez/Image-repo-profile/main/icons/visualstudio/visualstudio-original.svg" alt="Visual Studio" title="Visual Studio" height="30"/>](#)
+[<img src="https://raw.githubusercontent.com/Raurez/Image-repo-profile/main/icons/intellij/intellij-original.svg" alt="IntelliJ IDEA" title="IntelliJ IDEA" height="30"/>](#)
 
-## Frameworks and Libraries
+## 🧩 Frameworks and Libraries
 
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
-![Xamarin](https://img.shields.io/badge/Xamarin-3498DB?style=for-the-badge&logo=xamarin&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpack-compose&logoColor=white)
+[<img src="https://raw.githubusercontent.com/Raurez/Image-repo-profile/main/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" title="Bootstrap" height="30"/>](#)
+[<img src="https://raw.githubusercontent.com/Raurez/Image-repo-profile/main/icons/composer/composer-original.svg" alt="Composer" title="Composer" height="30"/>](#)
+[<img src="https://raw.githubusercontent.com/Raurez/Image-repo-profile/main/icons/hibernate/hibernate-original.svg" alt="Hibernate" title="Hibernate" height="30"/>](#)
+[<img src="https://raw.githubusercontent.com/Raurez/Image-repo-profile/main/icons/jetpackcompose/jetpackcompose-original.svg" alt="Jetpack Compose" title="Jetpack Compose" height="30"/>](#)
+[<img src="https://raw.githubusercontent.com/Raurez/Image-repo-profile/main/icons/laravel/laravel-original.svg" alt="Laravel" title="Laravel" height="30"/>](#)
+[<img src="https://raw.githubusercontent.com/Raurez/Image-repo-profile/main/icons/xamarin/xamarin-original.svg" alt="Xamarin" title="Xamarin" height="30"/>](#)
 
-## Databases
+## 🛠️ Tools & Platforms
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+[<img src="https://raw.githubusercontent.com/Raurez/Image-repo-profile/main/icons/git/git-original.svg" alt="Git" title="Git" height="30"/>](#)
+[<img src="https://raw.githubusercontent.com/Raurez/Image-repo-profile/main/icons/firebase/firebase-original.svg" alt="Firebase" title="Firebase" height="30"/>](#)
+[<img src="https://raw.githubusercontent.com/Raurez/Image-repo-profile/main/icons/mongodb/mongodb-original.svg" alt="MongoDB" title="MongoDB" height="30"/>](#)
+[<img src="https://raw.githubusercontent.com/Raurez/Image-repo-profile/main/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL" height="30"/>](#)
+[<img src="https://raw.githubusercontent.com/Raurez/Image-repo-profile/main/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL" height="30"/>](#)
+[<img src="https://raw.githubusercontent.com/Raurez/Image-repo-profile/main/icons/sqlite/sqlite-original.svg" alt="SQLite" title="SQLite" height="30"/>](#)
+[<img src="https://raw.githubusercontent.com/Raurez/Image-repo-profile/main/icons/redis/redis-original.svg" alt="Redis" title="Redis" height="30"/>](#)
+[<img src="https://raw.githubusercontent.com/Raurez/Image-repo-profile/main/icons/postman/postman-original.svg" alt="Postman" title="Postman" height="30"/>](#)
+[<img src="https://raw.githubusercontent.com/Raurez/Image-repo-profile/main/icons/filezilla/filezilla-original.svg" alt="FileZilla" title="FileZilla" height="30"/>](#)
+[<img src="https://raw.githubusercontent.com/Raurez/Image-repo-profile/main/icons/digitalocean/digitalocean-original.svg" alt="DigitalOcean" title="DigitalOcean" height="30"/>](#)
 
-## Operating Systems
+## 🎨 Design & UI
 
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+[<img src="https://raw.githubusercontent.com/Raurez/Image-repo-profile/main/icons/figma/figma-original.svg" alt="Figma" title="Figma" height="30"/>](#)
+[<img src="https://raw.githubusercontent.com/Raurez/Image-repo-profile/main/icons/canva/canva-original.svg" alt="Canva" title="Canva" height="30"/>](#)
+[<img src="https://raw.githubusercontent.com/Raurez/Image-repo-profile/main/icons/sass/sass-original.svg" alt="Sass" title="Sass" height="30"/>](#)
 
-## Version Control
+## 💻 Operating Systems
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+[<img src="https://raw.githubusercontent.com/Raurez/Image-repo-profile/main/icons/linux/linux-original.svg" alt="Linux" title="Linux" height="30"/>](#)
+[<img src="https://raw.githubusercontent.com/Raurez/Image-repo-profile/main/icons/windows11/windows11-original.svg" alt="Windows 11" title="Windows 11" height="30"/>](#)
 
 ## 📁 Projects
 
