@@ -63,6 +63,7 @@
 
 [<img src="https://raw.githubusercontent.com/Raurez/Image-repo-profile/main/icons/linux/linux-original.svg" alt="Linux" title="Linux" height="30"/>](#)
 [<img src="https://raw.githubusercontent.com/Raurez/Image-repo-profile/main/icons/windows11/windows11-original.svg" alt="Windows 11" title="Windows 11" height="30"/>](#)
+[<img src="https://raw.githubusercontent.com/Raurez/Image-repo-profile/main/icons/android/android-original.svg" alt="Android" title="Android" height="30"/>](#)
 
 ## 📁 Projects
 
