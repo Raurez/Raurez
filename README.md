@@ -11,10 +11,7 @@
 - 👨‍💻 Software Developer      
 - 🌍 Web Development
 
-
-
-
-## ⚙️ Programming Stack
+## Programming Stack
 
 <p align="center">
 <table>
@@ -22,6 +19,7 @@
     <tr>
       <th>Language</th>
       <th>Framework / Library</th>
+      <th>IDEs</th>
       <th>Usage</th>
     </tr>
   </thead>
@@ -33,6 +31,9 @@
       <td align="center">
         <img src="https://raw.githubusercontent.com/Raurez/Image-repo-profile/main/icons/angular/angular-original.svg" title="Angular" height="30"/>
       </td>
+       <td align="center">
+        <img src="https://raw.githubusercontent.com/Raurez/Image-repo-profile/main/icons/vscode/vscode-original.svg" alt="VS Code" title="Visual Studio Code" height="30"/>
+      </td>
       <td align="center">Frontend Web</td>
     </tr>
     <tr>
@@ -41,6 +42,9 @@
       </td>
       <td align="center">
         <img src="https://raw.githubusercontent.com/Raurez/Image-repo-profile/main/icons/angular/angular-original.svg" title="Angular" height="30"/>
+      </td>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/Raurez/Image-repo-profile/main/icons/vscode/vscode-original.svg" alt="VS Code" title="Visual Studio Code" height="30"/>
       </td>
       <td align="center">Frontend Web</td>
     </tr>
@@ -52,6 +56,9 @@
       <td align="center">
         <img src="https://raw.githubusercontent.com/Raurez/Image-repo-profile/main/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" height="30"/>
       </td>
+        <td align="center">
+        <img src="https://raw.githubusercontent.com/Raurez/Image-repo-profile/main/icons/vscode/vscode-original.svg" alt="VS Code" title="Visual Studio Code" height="30"/>
+      </td>
       <td align="center">Web UI</td>
     </tr>
     <tr>
@@ -60,6 +67,9 @@
       </td>
       <td align="center">
         <img src="https://raw.githubusercontent.com/Raurez/Image-repo-profile/main/icons/jetpackcompose/jetpackcompose-original.svg" title="Jetpack Compose" height="30"/>
+      </td>
+       <td align="center">
+        <img src="https://raw.githubusercontent.com/Raurez/Image-repo-profile/main/icons/androidstudio/androidstudio-original.svg" alt="Android Studio" title="Android Studio" height="30"/>
       </td>
       <td align="center">Mobile (Android)</td>
     </tr>
@@ -70,6 +80,9 @@
       <td align="center">
         <img src="https://raw.githubusercontent.com/Raurez/Image-repo-profile/main/icons/xamarin/xamarin-original.svg" title="Xamarin" height="30"/>
       </td>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/Raurez/Image-repo-profile/main/icons/visualstudio/visualstudio-original.svg" alt="Visual Studio" title="Visual Studio" height="30"/>
+      </td>
       <td align="center">Mobile / Multiplatform</td>
     </tr>
         <tr>
@@ -78,27 +91,22 @@
       </td>
       <td align="center">
       </td>
+        <td align="center">
+        <img src="https://raw.githubusercontent.com/Raurez/Image-repo-profile/main/icons/vscode/vscode-original.svg" alt="VS Code" title="Visual Studio Code" height="30"/>
+      </td>
       <td align="center">Multiplatform</td>
     </tr>
   </tbody>
 </table>
 </p>
 
-## 🧰 IDEs
-
-[<img src="https://raw.githubusercontent.com/Raurez/Image-repo-profile/main/icons/androidstudio/androidstudio-original.svg" alt="Android Studio" title="Android Studio" height="30"/>](#)
-[<img src="https://raw.githubusercontent.com/Raurez/Image-repo-profile/main/icons/vscode/vscode-original.svg" alt="VS Code" title="Visual Studio Code" height="30"/>](#)
-[<img src="https://raw.githubusercontent.com/Raurez/Image-repo-profile/main/icons/visualstudio/visualstudio-original.svg" alt="Visual Studio" title="Visual Studio" height="30"/>](#)
-[<img src="https://raw.githubusercontent.com/Raurez/Image-repo-profile/main/icons/intellij/intellij-original.svg" alt="IntelliJ IDEA" title="IntelliJ IDEA" height="30"/>](#)
+<img src="https://raw.githubusercontent.com/Raurez/Image-repo-profile/main/icons/intellij/intellij-original.svg" alt="IntelliJ IDEA" title="IntelliJ IDEA" height="30"/>
 
 ## 🧩 Frameworks and Libraries
 
-[<img src="https://raw.githubusercontent.com/Raurez/Image-repo-profile/main/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" title="Bootstrap" height="30"/>](#)
 [<img src="https://raw.githubusercontent.com/Raurez/Image-repo-profile/main/icons/composer/composer-original.svg" alt="Composer" title="Composer" height="30"/>](#)
 [<img src="https://raw.githubusercontent.com/Raurez/Image-repo-profile/main/icons/hibernate/hibernate-original.svg" alt="Hibernate" title="Hibernate" height="30"/>](#)
-[<img src="https://raw.githubusercontent.com/Raurez/Image-repo-profile/main/icons/jetpackcompose/jetpackcompose-original.svg" alt="Jetpack Compose" title="Jetpack Compose" height="30"/>](#)
 [<img src="https://raw.githubusercontent.com/Raurez/Image-repo-profile/main/icons/laravel/laravel-original.svg" alt="Laravel" title="Laravel" height="30"/>](#)
-[<img src="https://raw.githubusercontent.com/Raurez/Image-repo-profile/main/icons/xamarin/xamarin-original.svg" alt="Xamarin" title="Xamarin" height="30"/>](#)
 
 ## 🛠️ Tools & Platforms
 
