@@ -5,7 +5,7 @@
 [<img src="https://raw.githubusercontent.com/Raurez/Image-repo-profile/main/icons/gmail/gmail-old-svgrepo-com.svg" alt="Gmail" title="Gmail" height="30"/>](mailto:raurambot@gmail.com) 
 [<img src="https://raw.githubusercontent.com/Raurez/Image-repo-profile/main/icons/linkedin/linkedin-original.svg" alt="LinkedIn" title="LinkedIn" height="30"/>](https://www.linkedin.com/in/ra%C3%BAl-ram%C3%ADrez-botella-998523302/)
 
-## About me 
+## 🙋‍♂️ About me 
 
 - 📲 Mobile developer
 - 👨‍💻 Software Developer      
