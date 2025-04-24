@@ -17,7 +17,6 @@
 ## ⚙️ Programming Stack
 
 <p align="center">
-
 <table>
   <thead>
     <tr>
@@ -73,23 +72,17 @@
       </td>
       <td align="center">Mobile / Multiplatform</td>
     </tr>
+        <tr>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/Raurez/Image-repo-profile/main/icons/python/python-original.svg" alt="Python" title="Python" height="30"/>
+      </td>
+      <td align="center">
+      </td>
+      <td align="center">Multiplatform</td>
+    </tr>
   </tbody>
 </table>
 </p>
-
-
-## 💻 Programming Languages
-
-[<img src="https://raw.githubusercontent.com/Raurez/Image-repo-profile/main/icons/csharp/csharp-original.svg" alt="C#" title="C#" height="30"/>](#)
-[<img src="https://raw.githubusercontent.com/Raurez/Image-repo-profile/main/icons/java/java-original.svg" alt="Java" title="Java" height="30"/>](#)
-[<img src="https://raw.githubusercontent.com/Raurez/Image-repo-profile/main/icons/kotlin/kotlin-original.svg" alt="Kotlin" title="Kotlin" height="30"/>](#)
-[<img src="https://raw.githubusercontent.com/Raurez/Image-repo-profile/main/icons/python/python-original.svg" alt="Python" title="Python" height="30"/>](#)
-[<img src="https://raw.githubusercontent.com/Raurez/Image-repo-profile/main/icons/php/php-original.svg" alt="PHP" title="PHP" height="30"/>](#)
-[<img src="https://raw.githubusercontent.com/Raurez/Image-repo-profile/main/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" height="30"/>](#)
-[<img src="https://raw.githubusercontent.com/Raurez/Image-repo-profile/main/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" height="30"/>](#)
-[<img src="https://raw.githubusercontent.com/Raurez/Image-repo-profile/main/icons/html5/html5-original.svg" alt="HTML5" title="HTML5" height="30"/>](#)
-[<img src="https://raw.githubusercontent.com/Raurez/Image-repo-profile/main/icons/css3/css3-original.svg" alt="CSS3" title="CSS3" height="30"/>](#)
-[<img src="https://raw.githubusercontent.com/Raurez/Image-repo-profile/main/icons/angular/angular-original.svg" alt="Angular" title="Angular" height="30"/>](#)
 
 ## 🧰 IDEs
 
