@@ -51,13 +51,14 @@
         <img src="https://raw.githubusercontent.com/Raurez/Image-repo-profile/main/icons/nodejs/nodejs-original.svg" title="Node.js" height="30"/>
         <img src="https://raw.githubusercontent.com/Raurez/Image-repo-profile/main/icons/php/php-original.svg" title="PHP" height="30"/>
         <img src="https://raw.githubusercontent.com/Raurez/Image-repo-profile/main/icons/laravel/laravel-original.svg" title="Laravel" height="30"/>
-         <img src="https://raw.githubusercontent.com/Raurez/Image-repo-profile/main/icons/composer/composer-original.svg" title="Composer" height="30"/>
+        <img src="https://raw.githubusercontent.com/Raurez/Image-repo-profile/main/icons/composer/composer-original.svg" title="Composer" height="30"/>
       </td>
       <td align="center">
         <img src="https://raw.githubusercontent.com/Raurez/Image-repo-profile/main/icons/firebase/firebase-original.svg" title="Firebase" height="30"/>
       </td>
       <td align="center">
         <img src="https://raw.githubusercontent.com/Raurez/Image-repo-profile/main/icons/hibernate/hibernate-original.svg" title="Hibernate" height="30"/>
+        <img src="https://raw.githubusercontent.com/Raurez/Image-repo-profile/main/icons/maven/maven-original.svg" title="Maven" height="30"/>
       </td>
     </tr>
     <tr>
