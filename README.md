@@ -14,9 +14,7 @@
 
 ## ⚙️ Full Tech Stack Overview
 
-<p align="center">
-
-<table>
+<table align="center">
   <thead>
     <tr>
       <th align="center"><strong>Frontend Web</strong></th>
@@ -131,9 +129,6 @@
 
   </tbody>
 </table>
-
-</p>
-
 
 ## 📁 Projects
 <table>
