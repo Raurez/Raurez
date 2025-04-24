@@ -11,94 +11,129 @@
 - 👨‍💻 Software Developer      
 - 🌍 Web Development
 
-## Programming Stack
+
+## ⚙️ Full Tech Stack Overview
 
 <p align="center">
+
 <table>
   <thead>
     <tr>
-      <th>Frontend Web</th>
-      <th>backends</th>
-      <th>IDEs</th>
-      <th>Mobile</th>
-       <th>backends</th>
-      <th>IDEs</th>
-      <th>Multiplatform</th>
-       <th>backends</th>
-      <th>IDEs</th>
+      <th align="center"><strong>Frontend Web</strong></th>
+      <th align="center"><strong>Mobile</strong></th>
+      <th align="center"><strong>Multiplatform</strong></th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td align="center">
-        <img src="https://raw.githubusercontent.com/Raurez/Image-repo-profile/main/icons/javascript/javascript-original.svg" title="JavaScript" height="30"/>
-        <img src="https://raw.githubusercontent.com/Raurez/Image-repo-profile/main/icons/typescript/typescript-original.svg" title="TypeScript" height="30"/>
         <img src="https://raw.githubusercontent.com/Raurez/Image-repo-profile/main/icons/html5/html5-original.svg" title="HTML5" height="30"/>
         <img src="https://raw.githubusercontent.com/Raurez/Image-repo-profile/main/icons/css3/css3-original.svg" title="CSS3" height="30"/>
+        <img src="https://raw.githubusercontent.com/Raurez/Image-repo-profile/main/icons/javascript/javascript-original.svg" title="JavaScript" height="30"/>
+        <img src="https://raw.githubusercontent.com/Raurez/Image-repo-profile/main/icons/typescript/typescript-original.svg" title="TypeScript" height="30"/>
         <img src="https://raw.githubusercontent.com/Raurez/Image-repo-profile/main/icons/angular/angular-original.svg" title="Angular" height="30"/>
         <img src="https://raw.githubusercontent.com/Raurez/Image-repo-profile/main/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" height="30"/>
       </td>
       <td align="center">
-        <img src="https://raw.githubusercontent.com/Raurez/Image-repo-profile/main/icons/php/php-original.svg" title="PHP" height="30"/><br/>
-        <img src="https://raw.githubusercontent.com/Raurez/Image-repo-profile/main/icons/composer/composer-original.svg" alt="Composer" title="Composer" height="30"/>
-        <img src="https://raw.githubusercontent.com/Raurez/Image-repo-profile/main/icons/laravel/laravel-original.svg" alt="Laravel" title="Laravel" height="30"/>
-      </td>
-       <td align="center">
-        <img src="https://raw.githubusercontent.com/Raurez/Image-repo-profile/main/icons/vscode/vscode-original.svg" alt="VS Code" title="Visual Studio Code" height="30"/>
-      </td>
-      <td align="center">
         <img src="https://raw.githubusercontent.com/Raurez/Image-repo-profile/main/icons/kotlin/kotlin-original.svg" title="Kotlin" height="30"/>
-        <img src="https://raw.githubusercontent.com/Raurez/Image-repo-profile/main/icons/csharp/csharp-original.svg" title="C#" height="30"/>
         <img src="https://raw.githubusercontent.com/Raurez/Image-repo-profile/main/icons/jetpackcompose/jetpackcompose-original.svg" title="Jetpack Compose" height="30"/>
+        <img src="https://raw.githubusercontent.com/Raurez/Image-repo-profile/main/icons/csharp/csharp-original.svg" title="C#" height="30"/>
         <img src="https://raw.githubusercontent.com/Raurez/Image-repo-profile/main/icons/xamarin/xamarin-original.svg" title="Xamarin" height="30"/>
       </td>
       <td align="center">
-        <img src="https://raw.githubusercontent.com/Raurez/Image-repo-profile/main/icons/firebase/firebase-original.svg" alt="Firebase" title="Firebase" height="30"/>
+        <img src="https://raw.githubusercontent.com/Raurez/Image-repo-profile/main/icons/java/java-original.svg" title="Java" height="30"/>
+        <img src="https://raw.githubusercontent.com/Raurez/Image-repo-profile/main/icons/python/python-original.svg" title="Python" height="30"/>
       </td>
-       <td align="center">
-         <img src="https://raw.githubusercontent.com/Raurez/Image-repo-profile/main/icons/androidstudio/androidstudio-original.svg" alt="Android Studio" title="Android Studio" height="30"/>
-         <img src="https://raw.githubusercontent.com/Raurez/Image-repo-profile/main/icons/visualstudio/visualstudio-original.svg" alt="Visual Studio" title="Visual Studio" height="30"/>
+    </tr>
+    <tr>
+      <td colspan="3" align="center"><strong>🔧 Backends</strong></td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/Raurez/Image-repo-profile/main/icons/nodejs/nodejs-original.svg" title="Node.js" height="30"/>
+        <img src="https://raw.githubusercontent.com/Raurez/Image-repo-profile/main/icons/php/php-original.svg" title="PHP" height="30"/>
+        <img src="https://raw.githubusercontent.com/Raurez/Image-repo-profile/main/icons/laravel/laravel-original.svg" title="Laravel" height="30"/>
+         <img src="https://raw.githubusercontent.com/Raurez/Image-repo-profile/main/icons/composer/composer-original.svg" title="Composer" height="30"/>
       </td>
-       <td align="center">
-           <img src="https://raw.githubusercontent.com/Raurez/Image-repo-profile/main/icons/csharp/csharp-original.svg" title="C#" height="30"/>
-          <img src="https://raw.githubusercontent.com/Raurez/Image-repo-profile/main/icons/python/python-original.svg" alt="Python" title="Python" height="30"/>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/Raurez/Image-repo-profile/main/icons/firebase/firebase-original.svg" title="Firebase" height="30"/>
       </td>
-       <td align="center">
-         <img src="https://raw.githubusercontent.com/Raurez/Image-repo-profile/main/icons/java/java-original.svg" title="Java" height="30"/><br/>
-         <img src="https://raw.githubusercontent.com/Raurez/Image-repo-profile/main/icons/hibernate/hibernate-original.svg" alt="Hibernate" title="Hibernate" height="30"/>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/Raurez/Image-repo-profile/main/icons/hibernate/hibernate-original.svg" title="Hibernate" height="30"/>
       </td>
-       <td align="center">
-          <img src="https://raw.githubusercontent.com/Raurez/Image-repo-profile/main/icons/visualstudio/visualstudio-original.svg" alt="Visual Studio" title="Visual Studio" height="30"/>
-          <img src="https://raw.githubusercontent.com/Raurez/Image-repo-profile/main/icons/vscode/vscode-original.svg" alt="VS Code" title="Visual Studio Code" height="30"/>
-         <img src="https://raw.githubusercontent.com/Raurez/Image-repo-profile/main/icons/intellij/intellij-original.svg" alt="IntelliJ IDEA" title="IntelliJ IDEA" height="30"/>
+    </tr>
+    <tr>
+      <td colspan="3" align="center"><strong>💻 IDEs</strong></td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/Raurez/Image-repo-profile/main/icons/vscode/vscode-original.svg" title="VS Code" height="30"/>
       </td>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/Raurez/Image-repo-profile/main/icons/androidstudio/androidstudio-original.svg" title="Android Studio" height="30"/>
+         <img src="https://raw.githubusercontent.com/Raurez/Image-repo-profile/main/icons/visualstudio/visualstudio-original.svg" title="Visual Studio" height="30"/>
+      </td>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/Raurez/Image-repo-profile/main/icons/visualstudio/visualstudio-original.svg" title="Visual Studio" height="30"/>
+        <img src="https://raw.githubusercontent.com/Raurez/Image-repo-profile/main/icons/intellij/intellij-original.svg" title="IntelliJ" height="30"/>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="3" align="center"><strong>🗄️ Databases</strong></td>
+    </tr>
+    <tr>
+      <td colspan="3" align="center">
+        <img src="https://raw.githubusercontent.com/Raurez/Image-repo-profile/main/icons/mysql/mysql-original.svg" title="MySQL" height="30"/>
+        <img src="https://raw.githubusercontent.com/Raurez/Image-repo-profile/main/icons/postgresql/postgresql-original.svg" title="PostgreSQL" height="30"/>
+         <img src="https://raw.githubusercontent.com/Raurez/Image-repo-profile/main/icons/redis/redis-original.svg" title="Redis" height="30"/>
+        <img src="https://raw.githubusercontent.com/Raurez/Image-repo-profile/main/icons/firebase/firebase-original.svg" title="Firebase" height="30"/>
+        <img src="https://raw.githubusercontent.com/Raurez/Image-repo-profile/main/icons/sqlite/sqlite-original.svg" title="SQLite" height="30"/>
+        <img src="https://raw.githubusercontent.com/Raurez/Image-repo-profile/main/icons/mongodb/mongodb-original.svg" title="MongoDB" height="30"/>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="3" align="center"><strong>🛠️ Tools & Platforms</strong></td>
+    </tr>
+    <tr>
+      <td colspan="3" align="center">
+        <img src="https://raw.githubusercontent.com/Raurez/Image-repo-profile/main/icons/git/git-original.svg" title="Git" height="30"/>
+        <img src="https://raw.githubusercontent.com/Raurez/Image-repo-profile/main/icons/postman/postman-original.svg" title="Postman" height="30"/>
+         <img src="https://raw.githubusercontent.com/Raurez/Image-repo-profile/main/icons/filezilla/filezilla-original.svg" title="FileZilla" height="30"/>
+        <img src="https://raw.githubusercontent.com/Raurez/Image-repo-profile/main/icons/digitalocean/digitalocean-original.svg" title="DigitalOcean" height="30"/>
+      </td>
+    </tr>
+    <tr>
+  <td colspan="3" align="center"><strong>🎨 Design & Styling</strong></td>
+</tr>
+<tr>
+  <td align="center">
+    <img src="https://raw.githubusercontent.com/Raurez/Image-repo-profile/main/icons/sass/sass-original.svg" title="Sass (Frontend styling)" height="30"/>
+  </td>
+  <td align="center">
+    <img src="https://raw.githubusercontent.com/Raurez/Image-repo-profile/main/icons/figma/figma-original.svg" title="Figma (Design UI)" height="30"/>
+    <img src="https://raw.githubusercontent.com/Raurez/Image-repo-profile/main/icons/canva/canva-original.svg" title="Canva (Quick visuals)" height="30"/>
+  </td>
+  <td align="center">
+    <img src="https://raw.githubusercontent.com/Raurez/Image-repo-profile/main/icons/xml/xml-original.svg" title="XML (Android UI)" height="30"/>
+  </td>
+</tr>
+    <tr>
+      <td colspan="3" align="center"><strong>🧭 Operating Systems</strong></td>
+    </tr>
+    <tr>
+      <td colspan="3" align="center">
+        <img src="https://raw.githubusercontent.com/Raurez/Image-repo-profile/main/icons/linux/linux-original.svg" title="Linux" height="30"/>
+         <img src="https://raw.githubusercontent.com/Raurez/Image-repo-profile/main/icons/ubuntu/ubuntu-original.svg" title="Linux" height="30"/>
+         <img src="https://raw.githubusercontent.com/Raurez/Image-repo-profile/main/icons/android/android-original.svg" title="Android" height="30"/>
+         <img src="https://raw.githubusercontent.com/Raurez/Image-repo-profile/main/icons/windows11/windows11-original.svg" title="Windows 11" height="30"/>
+      </td>
+    </tr>
+
   </tbody>
 </table>
+
 </p>
 
-## Tools & Platforms
-
-[<img src="https://raw.githubusercontent.com/Raurez/Image-repo-profile/main/icons/git/git-original.svg" alt="Git" title="Git" height="30"/>](#)
-[<img src="https://raw.githubusercontent.com/Raurez/Image-repo-profile/main/icons/mongodb/mongodb-original.svg" alt="MongoDB" title="MongoDB" height="30"/>](#)
-[<img src="https://raw.githubusercontent.com/Raurez/Image-repo-profile/main/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL" height="30"/>](#)
-[<img src="https://raw.githubusercontent.com/Raurez/Image-repo-profile/main/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL" height="30"/>](#)
-[<img src="https://raw.githubusercontent.com/Raurez/Image-repo-profile/main/icons/sqlite/sqlite-original.svg" alt="SQLite" title="SQLite" height="30"/>](#)
-[<img src="https://raw.githubusercontent.com/Raurez/Image-repo-profile/main/icons/redis/redis-original.svg" alt="Redis" title="Redis" height="30"/>](#)
-[<img src="https://raw.githubusercontent.com/Raurez/Image-repo-profile/main/icons/postman/postman-original.svg" alt="Postman" title="Postman" height="30"/>](#)
-[<img src="https://raw.githubusercontent.com/Raurez/Image-repo-profile/main/icons/filezilla/filezilla-original.svg" alt="FileZilla" title="FileZilla" height="30"/>](#)
-[<img src="https://raw.githubusercontent.com/Raurez/Image-repo-profile/main/icons/digitalocean/digitalocean-original.svg" alt="DigitalOcean" title="DigitalOcean" height="30"/>](#)
-
-## Design & UI
-
-[<img src="https://raw.githubusercontent.com/Raurez/Image-repo-profile/main/icons/figma/figma-original.svg" alt="Figma" title="Figma" height="30"/>](#)
-[<img src="https://raw.githubusercontent.com/Raurez/Image-repo-profile/main/icons/canva/canva-original.svg" alt="Canva" title="Canva" height="30"/>](#)
-[<img src="https://raw.githubusercontent.com/Raurez/Image-repo-profile/main/icons/sass/sass-original.svg" alt="Sass" title="Sass" height="30"/>](#)
-
-## Operating Systems
-
-[<img src="https://raw.githubusercontent.com/Raurez/Image-repo-profile/main/icons/linux/linux-original.svg" alt="Linux" title="Linux" height="30"/>](#)
-[<img src="https://raw.githubusercontent.com/Raurez/Image-repo-profile/main/icons/windows11/windows11-original.svg" alt="Windows 11" title="Windows 11" height="30"/>](#)
-[<img src="https://raw.githubusercontent.com/Raurez/Image-repo-profile/main/icons/android/android-original.svg" alt="Android" title="Android" height="30"/>](#)
 
 ## 📁 Projects
 <table>
