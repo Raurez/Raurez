@@ -11,6 +11,73 @@
 - 👨‍💻 Software Developer      
 - 🌍 Web Development
 
+
+
+
+## ⚙️ Programming Stack
+
+<p align="center">
+
+<table>
+  <thead>
+    <tr>
+      <th>Language</th>
+      <th>Framework / Library</th>
+      <th>Usage</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/Raurez/Image-repo-profile/main/icons/javascript/javascript-original.svg" title="JavaScript" height="30"/>
+      </td>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/Raurez/Image-repo-profile/main/icons/angular/angular-original.svg" title="Angular" height="30"/>
+      </td>
+      <td align="center">Frontend Web</td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/Raurez/Image-repo-profile/main/icons/typescript/typescript-original.svg" title="TypeScript" height="30"/>
+      </td>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/Raurez/Image-repo-profile/main/icons/angular/angular-original.svg" title="Angular" height="30"/>
+      </td>
+      <td align="center">Frontend Web</td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/Raurez/Image-repo-profile/main/icons/html5/html5-original.svg" title="HTML5" height="30"/>
+        <img src="https://raw.githubusercontent.com/Raurez/Image-repo-profile/main/icons/css3/css3-original.svg" title="CSS3" height="30"/>
+      </td>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/Raurez/Image-repo-profile/main/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" height="30"/>
+      </td>
+      <td align="center">Web UI</td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/Raurez/Image-repo-profile/main/icons/kotlin/kotlin-original.svg" title="Kotlin" height="30"/>
+      </td>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/Raurez/Image-repo-profile/main/icons/jetpackcompose/jetpackcompose-original.svg" title="Jetpack Compose" height="30"/>
+      </td>
+      <td align="center">Mobile (Android)</td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/Raurez/Image-repo-profile/main/icons/csharp/csharp-original.svg" title="C#" height="30"/>
+      </td>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/Raurez/Image-repo-profile/main/icons/xamarin/xamarin-original.svg" title="Xamarin" height="30"/>
+      </td>
+      <td align="center">Mobile / Multiplatform</td>
+    </tr>
+  </tbody>
+</table>
+</p>
+
+
 ## 💻 Programming Languages
 
 [<img src="https://raw.githubusercontent.com/Raurez/Image-repo-profile/main/icons/csharp/csharp-original.svg" alt="C#" title="C#" height="30"/>](#)
