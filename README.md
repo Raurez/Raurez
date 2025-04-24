@@ -17,101 +17,68 @@
 <table>
   <thead>
     <tr>
-      <th>Language</th>
-      <th>Framework / Library</th>
+      <th>Frontend Web</th>
+      <th>backends</th>
       <th>IDEs</th>
-      <th>Usage</th>
+      <th>Mobile</th>
+       <th>backends</th>
+      <th>IDEs</th>
+      <th>Multiplatform</th>
+       <th>backends</th>
+      <th>IDEs</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td align="center">
         <img src="https://raw.githubusercontent.com/Raurez/Image-repo-profile/main/icons/javascript/javascript-original.svg" title="JavaScript" height="30"/>
-      </td>
-      <td align="center">
-        <img src="https://raw.githubusercontent.com/Raurez/Image-repo-profile/main/icons/angular/angular-original.svg" title="Angular" height="30"/>
-      </td>
-       <td align="center">
-        <img src="https://raw.githubusercontent.com/Raurez/Image-repo-profile/main/icons/vscode/vscode-original.svg" alt="VS Code" title="Visual Studio Code" height="30"/>
-      </td>
-      <td align="center">Frontend Web</td>
-    </tr>
-    <tr>
-      <td align="center">
         <img src="https://raw.githubusercontent.com/Raurez/Image-repo-profile/main/icons/typescript/typescript-original.svg" title="TypeScript" height="30"/>
-      </td>
-      <td align="center">
-        <img src="https://raw.githubusercontent.com/Raurez/Image-repo-profile/main/icons/angular/angular-original.svg" title="Angular" height="30"/>
-      </td>
-      <td align="center">
-        <img src="https://raw.githubusercontent.com/Raurez/Image-repo-profile/main/icons/vscode/vscode-original.svg" alt="VS Code" title="Visual Studio Code" height="30"/>
-      </td>
-      <td align="center">Frontend Web</td>
-    </tr>
-    <tr>
-      <td align="center">
         <img src="https://raw.githubusercontent.com/Raurez/Image-repo-profile/main/icons/html5/html5-original.svg" title="HTML5" height="30"/>
         <img src="https://raw.githubusercontent.com/Raurez/Image-repo-profile/main/icons/css3/css3-original.svg" title="CSS3" height="30"/>
-      </td>
-      <td align="center">
+        <img src="https://raw.githubusercontent.com/Raurez/Image-repo-profile/main/icons/angular/angular-original.svg" title="Angular" height="30"/>
         <img src="https://raw.githubusercontent.com/Raurez/Image-repo-profile/main/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" height="30"/>
       </td>
-        <td align="center">
-        <img src="https://raw.githubusercontent.com/Raurez/Image-repo-profile/main/icons/vscode/vscode-original.svg" alt="VS Code" title="Visual Studio Code" height="30"/>
-      </td>
-      <td align="center">Web UI</td>
-    </tr>
-    <tr>
       <td align="center">
-        <img src="https://raw.githubusercontent.com/Raurez/Image-repo-profile/main/icons/kotlin/kotlin-original.svg" title="Kotlin" height="30"/>
-      </td>
-      <td align="center">
-        <img src="https://raw.githubusercontent.com/Raurez/Image-repo-profile/main/icons/jetpackcompose/jetpackcompose-original.svg" title="Jetpack Compose" height="30"/>
+        <img src="https://raw.githubusercontent.com/Raurez/Image-repo-profile/main/icons/php/php-original.svg" title="PHP" height="30"/><br/>
+        <img src="https://raw.githubusercontent.com/Raurez/Image-repo-profile/main/icons/composer/composer-original.svg" alt="Composer" title="Composer" height="30"/>
+        <img src="https://raw.githubusercontent.com/Raurez/Image-repo-profile/main/icons/laravel/laravel-original.svg" alt="Laravel" title="Laravel" height="30"/>
       </td>
        <td align="center">
-        <img src="https://raw.githubusercontent.com/Raurez/Image-repo-profile/main/icons/androidstudio/androidstudio-original.svg" alt="Android Studio" title="Android Studio" height="30"/>
+        <img src="https://raw.githubusercontent.com/Raurez/Image-repo-profile/main/icons/vscode/vscode-original.svg" alt="VS Code" title="Visual Studio Code" height="30"/>
       </td>
-      <td align="center">Mobile (Android)</td>
-    </tr>
-    <tr>
       <td align="center">
+        <img src="https://raw.githubusercontent.com/Raurez/Image-repo-profile/main/icons/kotlin/kotlin-original.svg" title="Kotlin" height="30"/>
         <img src="https://raw.githubusercontent.com/Raurez/Image-repo-profile/main/icons/csharp/csharp-original.svg" title="C#" height="30"/>
-      </td>
-      <td align="center">
+        <img src="https://raw.githubusercontent.com/Raurez/Image-repo-profile/main/icons/jetpackcompose/jetpackcompose-original.svg" title="Jetpack Compose" height="30"/>
         <img src="https://raw.githubusercontent.com/Raurez/Image-repo-profile/main/icons/xamarin/xamarin-original.svg" title="Xamarin" height="30"/>
       </td>
       <td align="center">
-        <img src="https://raw.githubusercontent.com/Raurez/Image-repo-profile/main/icons/visualstudio/visualstudio-original.svg" alt="Visual Studio" title="Visual Studio" height="30"/>
+        <img src="https://raw.githubusercontent.com/Raurez/Image-repo-profile/main/icons/firebase/firebase-original.svg" alt="Firebase" title="Firebase" height="30"/>
       </td>
-      <td align="center">Mobile / Multiplatform</td>
-    </tr>
-        <tr>
-      <td align="center">
-        <img src="https://raw.githubusercontent.com/Raurez/Image-repo-profile/main/icons/python/python-original.svg" alt="Python" title="Python" height="30"/>
+       <td align="center">
+         <img src="https://raw.githubusercontent.com/Raurez/Image-repo-profile/main/icons/androidstudio/androidstudio-original.svg" alt="Android Studio" title="Android Studio" height="30"/>
+         <img src="https://raw.githubusercontent.com/Raurez/Image-repo-profile/main/icons/visualstudio/visualstudio-original.svg" alt="Visual Studio" title="Visual Studio" height="30"/>
       </td>
-      <td align="center">
+       <td align="center">
+           <img src="https://raw.githubusercontent.com/Raurez/Image-repo-profile/main/icons/csharp/csharp-original.svg" title="C#" height="30"/>
+          <img src="https://raw.githubusercontent.com/Raurez/Image-repo-profile/main/icons/python/python-original.svg" alt="Python" title="Python" height="30"/>
       </td>
-        <td align="center">
-        <img src="https://raw.githubusercontent.com/Raurez/Image-repo-profile/main/icons/vscode/vscode-original.svg" alt="VS Code" title="Visual Studio Code" height="30"/>
+       <td align="center">
+         <img src="https://raw.githubusercontent.com/Raurez/Image-repo-profile/main/icons/java/java-original.svg" title="Java" height="30"/><br/>
+         <img src="https://raw.githubusercontent.com/Raurez/Image-repo-profile/main/icons/hibernate/hibernate-original.svg" alt="Hibernate" title="Hibernate" height="30"/>
       </td>
-      <td align="center">Multiplatform</td>
-    </tr>
+       <td align="center">
+          <img src="https://raw.githubusercontent.com/Raurez/Image-repo-profile/main/icons/visualstudio/visualstudio-original.svg" alt="Visual Studio" title="Visual Studio" height="30"/>
+          <img src="https://raw.githubusercontent.com/Raurez/Image-repo-profile/main/icons/vscode/vscode-original.svg" alt="VS Code" title="Visual Studio Code" height="30"/>
+         <img src="https://raw.githubusercontent.com/Raurez/Image-repo-profile/main/icons/intellij/intellij-original.svg" alt="IntelliJ IDEA" title="IntelliJ IDEA" height="30"/>
+      </td>
   </tbody>
 </table>
 </p>
 
-<img src="https://raw.githubusercontent.com/Raurez/Image-repo-profile/main/icons/intellij/intellij-original.svg" alt="IntelliJ IDEA" title="IntelliJ IDEA" height="30"/>
-
-## 🧩 Frameworks and Libraries
-
-[<img src="https://raw.githubusercontent.com/Raurez/Image-repo-profile/main/icons/composer/composer-original.svg" alt="Composer" title="Composer" height="30"/>](#)
-[<img src="https://raw.githubusercontent.com/Raurez/Image-repo-profile/main/icons/hibernate/hibernate-original.svg" alt="Hibernate" title="Hibernate" height="30"/>](#)
-[<img src="https://raw.githubusercontent.com/Raurez/Image-repo-profile/main/icons/laravel/laravel-original.svg" alt="Laravel" title="Laravel" height="30"/>](#)
-
-## 🛠️ Tools & Platforms
+## Tools & Platforms
 
 [<img src="https://raw.githubusercontent.com/Raurez/Image-repo-profile/main/icons/git/git-original.svg" alt="Git" title="Git" height="30"/>](#)
-[<img src="https://raw.githubusercontent.com/Raurez/Image-repo-profile/main/icons/firebase/firebase-original.svg" alt="Firebase" title="Firebase" height="30"/>](#)
 [<img src="https://raw.githubusercontent.com/Raurez/Image-repo-profile/main/icons/mongodb/mongodb-original.svg" alt="MongoDB" title="MongoDB" height="30"/>](#)
 [<img src="https://raw.githubusercontent.com/Raurez/Image-repo-profile/main/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL" height="30"/>](#)
 [<img src="https://raw.githubusercontent.com/Raurez/Image-repo-profile/main/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL" height="30"/>](#)
@@ -121,20 +88,19 @@
 [<img src="https://raw.githubusercontent.com/Raurez/Image-repo-profile/main/icons/filezilla/filezilla-original.svg" alt="FileZilla" title="FileZilla" height="30"/>](#)
 [<img src="https://raw.githubusercontent.com/Raurez/Image-repo-profile/main/icons/digitalocean/digitalocean-original.svg" alt="DigitalOcean" title="DigitalOcean" height="30"/>](#)
 
-## 🎨 Design & UI
+## Design & UI
 
 [<img src="https://raw.githubusercontent.com/Raurez/Image-repo-profile/main/icons/figma/figma-original.svg" alt="Figma" title="Figma" height="30"/>](#)
 [<img src="https://raw.githubusercontent.com/Raurez/Image-repo-profile/main/icons/canva/canva-original.svg" alt="Canva" title="Canva" height="30"/>](#)
 [<img src="https://raw.githubusercontent.com/Raurez/Image-repo-profile/main/icons/sass/sass-original.svg" alt="Sass" title="Sass" height="30"/>](#)
 
-## 💻 Operating Systems
+## Operating Systems
 
 [<img src="https://raw.githubusercontent.com/Raurez/Image-repo-profile/main/icons/linux/linux-original.svg" alt="Linux" title="Linux" height="30"/>](#)
 [<img src="https://raw.githubusercontent.com/Raurez/Image-repo-profile/main/icons/windows11/windows11-original.svg" alt="Windows 11" title="Windows 11" height="30"/>](#)
 [<img src="https://raw.githubusercontent.com/Raurez/Image-repo-profile/main/icons/android/android-original.svg" alt="Android" title="Android" height="30"/>](#)
 
 ## 📁 Projects
-
 <table>
   <tr>
     <td width="50%">
