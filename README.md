@@ -14,7 +14,7 @@
 
 ## ⚙️ Full Tech Stack Overview
 
-<table align="center">
+<table align="center" width="100%">
   <thead>
     <tr>
       <th align="center"><strong>Frontend Web</strong></th>
